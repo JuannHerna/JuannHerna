@@ -1,7 +1,8 @@
 # 👋 Hola! Me llamo Juan
 ## 👀 Me gusta todo lo que tenga que ver con seguridad informatica
-🏫 - **Estudiando Ingenieria en Computacionn**  💻
-📡
+🏫 -Estudiante de Ingenieria en Computacion
+📡 
+* Soy de Ingeniero Jacobacci Rio Negro 🌎
   
 
 <!---

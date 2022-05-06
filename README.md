@@ -1,6 +1,6 @@
-# 👋 Hola! Mi nombre es Juan
+# 👋 Hola! Me llamo Juan
 ## 👀 Estoy interesado en todo lo que tengo que ver con seguridad informatica
-- 📫 How to reach me ...
+1. Estudiando Ingenieria en Computacionn
 
 <!---
 JuannHerna/JuannHerna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

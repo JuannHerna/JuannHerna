@@ -2,7 +2,7 @@
 ## 👀 Me gusta todo lo que tenga que ver con seguridad informatica
 🏫 -Estudiante de Ingenieria en Computacion
 📡 
-* Ingeniero Jacobacci Rio Negro 🏠📍
+* Ingeniero Jacobacci Rio Negro 🏠
   
 
 <!---

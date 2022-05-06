@@ -1,4 +1,4 @@
-- 👋 Hola! Mi nombre es Juan
+#👋 Hola! Mi nombre es Juan
 - 👀 Estoy interesado en todo lo que tengo que ver con seguridad informatica
 - 📫 How to reach me ...
 

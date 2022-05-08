@@ -1,4 +1,4 @@
-# 👋 Hola! Me llamo Juan
+# 👋 Hola! Me llamo Juan Hernandez
 ## 👀 Me gusta todo lo que tenga que ver con seguridad informatica
 🏫 -Estudiante de Ingenieria en Computacion
 📡 

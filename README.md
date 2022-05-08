@@ -1,5 +1,5 @@
 # 👋 Hola! Me llamo Juan Hernandez
-## 👀 Me gusta todo lo que tenga que ver con seguridad informatica
+## 👀 Me gusta la seguridad informatica
 🏫 -Estudiante de Ingenieria en Computacion
 📡 
 * Ingeniero Jacobacci Rio Negro 🏠

@@ -1,5 +1,5 @@
 # 👋 Hola! Me llamo Juan Hernandez
-## 👀 Me gusta el diseño
+## 👀
 🏫 -Estudiante de Ingenieria en Computacion
 📡 
 * Ingeniero Jacobacci Rio Negro 🏠

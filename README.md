@@ -1,5 +1,4 @@
-# 👋 Hola! Me llamo Juan Hernandez
-## 👀
+# 👋 Hi my name is Juan👀
 🏫 -Estudiante de Ingenieria en Computacion
 📡 
 * Ingeniero Jacobacci Rio Negro 🏠

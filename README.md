@@ -26,9 +26,4 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-</a>
+
